@@ -1,1 +1,6 @@
 my name is chapter 1 created initially
+
+
+
+
+created new branch mergechapter adnd added new line in chapter line 
